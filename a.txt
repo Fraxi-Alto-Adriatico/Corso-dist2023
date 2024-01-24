@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 goianhgiuegiuewahgihewagewoghewaoighewaoighiwaehgoiewahgewhgoi
+=======
+where is it
+>>>>>>> Function5
